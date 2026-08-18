@@ -1,1 +1,0 @@
-Un canal de noticias para periodista que desean apoyar a la comunidad     * { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
